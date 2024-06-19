@@ -1,4 +1,6 @@
 # C++ modified code 
+# Inspired off this video i watched in October 2023 https://youtu.be/p09i_hoFdd0?si=YCQVlDdrm0iypy3V
+
 
 ## I was debating putting the source code on github because it was pratically unreadable before, i have since made the code more readable since then.
 
