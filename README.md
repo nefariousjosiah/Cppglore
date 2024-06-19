@@ -1,6 +1,8 @@
 # C++ modified code 
 
-Changed some of the symbols and the timing of each change.
+## I was debating putting the source code on github because it was pratically unreadable before, i have since made the code more readable since then.
+
+## This was my longest project so far, which started in February 2024 and took until June 2024 until it was completed.
 
 
 
